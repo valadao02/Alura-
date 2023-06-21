@@ -160,6 +160,11 @@ body {
     .container {
         display: block;
         background-image: none;
+        height: 80vh;
+    }
+
+    .principal {
+        margin-top: 20%;
     }
 
     .container__imagem {
@@ -177,6 +182,10 @@ body {
 
     .secundario__imagem {
         width: 50vw;
+    }
+
+    .dispositivos__titulo {
+        padding: 8%;
     }
 
     .dispositivos__lista {
